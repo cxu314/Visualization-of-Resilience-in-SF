@@ -1,6 +1,7 @@
 #  Community Resiliency in San Francisco
 
-GitHub: https://github.com/sf-community-resiliency-map/sf-community-resiliency-map or https://github.com/carriexu24/DataViz  
+In this project, we visualized Community Resiliency Scores in different neighborhoods of San Francisco with interactive plots using Plotly and Bokeh. In addition, we designed a website to house the visualizations. We optimized our web page through an A/B test using Google Analytics to increase users engagement.
+ 
 Website: https://sf-community-resiliency-map.github.io  
 Data Source: https://data.sfgov.org/Health-and-Social-Services/Community-Resiliency-Indicator-System/banc-xdvr  
 
